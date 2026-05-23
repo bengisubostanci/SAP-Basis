@@ -1,0 +1,68 @@
+
+English
+
+What is SAP?
+•	Acronym and Origin: It stands for "Systems, Applications, and Products in Data Processing" (translated from German). It was founded in Germany in 1972 by a group of five engineers who left IBM. 
+•	Core Purpose: It is the world's leading ERP (Enterprise Resource Planning) software, designed to help large organizations efficiently manage all their business processes—such as finance, human resources, logistics, and production—under a single roof. 
+•	Origin of Demand: It was born out of the need for a modular system to manage giant German manufacturing plants like Mercedes, BMW, and Bosch. Over time, it became globally adopted, reaching over 450,000 customers, including the vast majority of Fortune 500 companies. 
+
+
+Why is SAP Preferred? (Key Differences & Advantages)
+•	Global Standard and Compliance: It is fully integrated and compliant with local tax laws, financial regulations, and payroll systems across hundreds of countries worldwide. 
+•	Abundant Human Resources and Support: Compared to its competitors (such as Oracle or Microsoft Dynamics), its biggest advantage is the ease of finding SAP-certified experts, consultants, and partners anywhere in the world. 
+•	Advanced Forecasting: It doesn't just manage day-to-day transaction flows; it also uses data analytics and predictive capabilities to assist companies in making strategic, forward-looking decisions. 
+•	ABAP Programming Language: It utilizes its own proprietary, object-oriented language called ABAP. All standard source codes within SAP are fully visible and open for developers to customize and enhance. 
+•	Powerful Built-in Infrastructure: Instead of using external files, SAP stores all its program codes directly inside database tables, which allows for automatic version control. It also provides built-in tools for authorizations, log monitoring, and direct database connections. 
+
+
+Evolution of SAP and the S/4HANA Architecture
+SAP has evolved over the decades from its early "Mainframe" (character-based text screens) structures into R/3, then to ECC, and finally to the modern S/4HANA platform. 
+SAP is famous for its 3-Tier Architecture:
+1.	Presentation Layer: The user interface through which the end-user interacts, such as SAP GUI or web browsers. 
+2.	Application Layer: The application server where codes are compiled, executed, and business logic is processed. 
+3.	Database Layer: The foundation where all the business data is safely stored. 
+The Power of S/4HANA: The underlying HANA database runs entirely In-Memory (in the system's RAM instead of traditional hard disks). This allows massive amounts of data to be processed instantly for real-time analytics. For its modern interface, it utilizes a web-based responsive design called SAP Fiori.
+
+
+What Does an SAP Basis Person Do?
+SAP Basis specialists are the ultimate technical guardians of the system's core ("the bedroom of SAP"). They ensure high system availability and seamless operation. Their main responsibilities include: 
+•	System Maintenance and Upgrades: Planning and executing massive system upgrades and applying Support Packages. 
+•	Software Transport Management (TMS): Managing the safe movement of custom developments or configurations through the system landscape: Development (Dev) $\rightarrow$ Quality Assurance (QA) $\rightarrow$ Production (Prod). 
+•	Performance and Log Monitoring: Analyzing system slowdowns, tracking hardware/memory usage, and optimizing runtime performance. 
+•	Database Management and Backups: Handling database administration, setting up backup strategies, and executing recovery procedures (Restore) in case of system failures. 
+•	Authorization and Security: Creating user accounts and configuring security roles to define exactly which screens, buttons, or data fields a specific user can view or modify. 
+
+
+Türkçe
+
+SAP Nedir?
+•	Açılımı ve Kökeni: Almanca "Sistem, Uygulama ve Ürünler" kelimelerinin kısaltmasıdır. 1972 yılında Almanya'da IBM'den ayrılan 5 mühendis tarafından kurulmuştur. 
+•	Temel Amacı: Büyük kuruluşların finans, insan kaynakları, lojistik ve üretim gibi tüm operasyonel süreçlerini tek bir çatı altında, verimli bir şekilde yönetmelerini sağlayan dünyanın en büyük ERP (Kurumsal Kaynak Planlaması) yazılımıdır. 
+•	İhtiyaçtan Doğuşu: Almanya'daki Mercedes, BMW, Bosch gibi dev üretim fabrikalarının modüler bir yazılıma ihtiyaç duymasıyla ortaya çıkmış, zamanla dünya çapında benimsenerek Fortune 500 şirketlerinin büyük bir bölümü dahil olmak üzere 450 binden fazla müşteriye ulaşmıştır. 
+
+
+Neden SAP Tercih Edilir? (Farkları ve Avantajları)
+•	Küresel Standart ve Uyum: Dünya genelindeki yüzlerce ülkenin yerel vergi kanunlarına, vergi mevzuatlarına ve bordro sistemlerine entegre ve uyumlu çalışabilir. 
+•	Zengin İnsan Kaynağı ve Destek: Rakiplerine (Oracle, Microsoft Dynamics vb.) kıyasla en büyük avantajı, dünyanın neresine giderseniz gidin SAP'den anlayan uzman, danışman ve partner bulmanın çok kolay olmasıdır. 
+•	Gelişmiş Tahminleme: Sadece anlık cari süreçleri yönetmekle kalmaz; veri analitiği ve tahminleme yetenekleriyle şirketlerin geleceğe yönelik doğru kararlar almasını sağlar. 
+•	ABAP Yazılım Dili: Kendine has nesne yönelimli (object-oriented) ABAP dilini kullanır. SAP içindeki tüm kodlar kullanıcılar/geliştiriciler tarafından görüntülenebilir ve geliştirilebilir. 
+•	Hazır Güçlü Altyapı: Kodları harici dosyalar yerine doğrudan veri tabanı tablolarında tutarak versiyonlar. Hazır yetkilendirme şablonları, log izleme ekranları ve veri tabanı bağlantı kolaylıkları sunar. 
+
+
+SAP’nin Gelişimi ve S/4HANA Mimarisi
+SAP, geçmişteki eski "Mainframe" (aptal terminal) yapılarından R/3 mimarisine, oradan ECC ve günümüzde S/4HANA platformuna evrilmiştir. 
+SAP'nin meşhur 3 Katmanlı Mimarisi şu şekildedir:
+1.	Prezantasyon (Gösterim) Katmanı: Kullanıcının etkileşime girdiği SAP GUI veya web arayüzüdür. 
+2.	Uygulama (Application) Katmanı: Kodların derlendiği, hesaplamaların yapıldığı uygulama sunucusudur. 
+3.	Veri Tabanı (Database) Katmanı: Verilerin saklandığı yerdir. 
+S/4HANA’nın Özelliği: Altında çalışan HANA veri tabanı, disk yerine tamamen In-Memory (Bellek içi) çalışır. Bu sayede veriler çok büyük hızlarla işlenir ve gerçek zamanlı analizler yapılabilir. Arayüz olarak ise modern web tabanlı SAP Fiori kullanılır. 
+
+
+SAP Basis Personeli Ne İş Yapar?
+SAP Basis uzmanları, sistemin yatak odasını kontrol eden ve sistemin kesintisiz (High Availability) çalışmasını sağlayan en kritik teknik personellerdir. Temel görevleri şunlardır: 
+•	Sistem Bakımı ve Güncelleme: Büyük sistem yükseltmelerini (Upgrade) ve paket güncellemelerini (Support Package) yapmak. 
+•	Yazılım Taşıma Yönetimi (Transport Management): Yazılımcıların yaptığı geliştirmeleri güvenli bir şekilde sırasıyla Geliştirme (Dev) $\rightarrow$ Test (Quality) $\rightarrow$ Canlı (Production) sistemlerine taşımak. 
+•	Performans ve Log İzleme: Sistemdeki yavaşlıkları analiz etmek, CPU/bellek kullanımlarını izlemek ve optimize etmek. 
+•	Veri Tabanı ve Yedekleme (Backup): Veri tabanının yönetimini yapmak, yedek almak ve çökme durumunda sistemi geri yüklemek (Restore). 
+•	Yetkilendirme ve Güvenlik: Kullanıcıları oluşturmak, hangi kullanıcının hangi ekranı/butonu görebileceğini ve neleri değiştirebileceğini yetki profilleriyle yönetmek. 
+
